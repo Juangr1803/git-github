@@ -24,4 +24,4 @@
 
 - bugfix se utilizan para corregir errores, o bugs detectados en el código, por lo que en este caso se parte de la rama develop realizando cambios en la rama develop.
 
-![Grafico](./git-branch.png)
+<img src="./git-branch.png">
